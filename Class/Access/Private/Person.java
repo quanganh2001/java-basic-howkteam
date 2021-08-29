@@ -1,3 +1,4 @@
+// Private chỉ cho phép truy cập nội bổ của một class.
 package Class.Access.Private;
 
 public class Person {
