@@ -1,5 +1,5 @@
 public class Student {
-    
+    // Tạo một class Student của một trường ‘Kteam Education’, như vậy chỉ cần một bộ nhớ chung lưu thông tin tên trường, như vậy tiết kiệm bộ nhớ hơn
     public String name;
     public int age;
     public float height;
