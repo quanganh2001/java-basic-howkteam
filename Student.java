@@ -13,8 +13,8 @@ public class Student {
         this.height = height;
         total += 1;
     }
-    
+    // Phương thức tĩnh cũng giống như biến tĩnh, có thể gọi mà không cần khởi tạo đối tượng.
     public static void getInfoUniversity() {
 		System.out.println("HowKteam. Free Educcation!");
-	}
+    }
 }
